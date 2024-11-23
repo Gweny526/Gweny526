@@ -9,7 +9,7 @@
 👻 I'm currently working on my game, still really early in the prototype <br> part of it.<br>
 🏢 You can find me here [LinkedIn](https://www.linkedin.com/in/gweny-dos-santos/) <br>
 👾 You can also find me here [Itch.io](https://gweny-526.itch.io/)<br>
-🩷 My hobbies are building Gunplas, learn new stuffs, video games, nature/marine life and documentaries about it! And art in all it's form.<br>
+🩷 My hobbies are building Gunplas, learning new stuffs, video games,<br> nature/marine life and documentaries about it! And art in all it's form.<br>
 🌠 As a VFX artist I have a keen eye for details. <br>
 🗣️ I speak French, English and I would like to improve my Dutch <br>
 
