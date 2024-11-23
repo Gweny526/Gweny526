@@ -37,9 +37,9 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 
 ## 📊 GitHub Stats
-![Gweny's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gweny526&hide_border=false&layout=compact&bg_color=00000000&include_all_commits=true&count_private=true)<br>
-![Gweny's GitHub languages stats](https://github-readme-stats.vercel.app/api?username=Gweny526&show_icons=true&layout=compact&bg_color=00000000&include_all_commits=true&count_private=true)<br>
-![Gweny's GitHub Top Contributed Repo stats](https://github-contributor-stats.vercel.app/api?username=Gweny526&limit=5&combine_all_yearly_contributions=true&layout=compact&bg_color=00000000)<br>
+![Gweny's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gweny526&hide_border=false&layout=compact&bg_color=00000000&include_all_commits=true&count_private=true&theme=cobalt)<br>
+![Gweny's GitHub languages stats](https://github-readme-stats.vercel.app/api?username=Gweny526&show_icons=true&layout=compact&bg_color=00000000&include_all_commits=true&count_private=true&theme=cobalt)<br>
+![Gweny's GitHub Top Contributed Repo stats](https://github-contributor-stats.vercel.app/api?username=Gweny526&limit=5&combine_all_yearly_contributions=true&layout=compact&bg_color=00000000&theme=cobalt)<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gweny526&no-frame=true&no-bg=false&margin-w=4)
