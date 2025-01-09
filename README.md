@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="380" src="https://media1.tenor.com/m/EVSvfiW9cPoAAAAd/mobile-suit-gundam-seed-gundam-seed.gif">
 
 📓 I'm currently learning to be a game developer on Unity App at **[@Interface3](https://interface3.be/fr/se-former-pour-l-emploi/it-training-formations-en-informatique/unity-app-game-developer)**<br>
-🔍👀 I'm looking for a 8 weeks internship as a game developer from January 6 till February 26 2025, to develop my skills.<br>
+🔍👀 I'm looking for a 8 weeks internship as a game developer from January 6 till February 28 2025, to develop my skills.<br>
 👻 I'm currently working on my game, still really early in the prototype <br> part of it.<br>
 🏢 You can find me here [LinkedIn](https://www.linkedin.com/in/gweny-dos-santos/) <br>
 👾 And also here [Itch.io](https://gweny-526.itch.io/)<br>
